@@ -55,4 +55,3 @@ I train my skills and remember the basics!
 - Github - [Tomas Mansilla](https://github.com/tomasmansilla)
 - Linkedin - [Tomas Agustin Mansilla](https://www.linkedin.com/in/tomasamansilla/)
 - Frontend Mentor - [@tomasmansillautn](https://www.frontendmentor.io/profile/tomasmansillautn)
-# huddle-landing-page-with-alternating-feature-blocks-master
