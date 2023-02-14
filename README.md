@@ -2,7 +2,7 @@
 
 ![Desktop design](/design/desktop-design.png)
 
-## [Live]() | [Solution]() | [Challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100)
+## [Live](https://www.frontendmentor.io/solutions/responsive-landing-page-using-grid-layout-and-flexbox-OQRtuqIvi4) | [Solution](https://tomasmansilla.github.io/huddle-landing-page-with-alternating-feature-blocks-master/) | [Challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100)
 
 This is a solution to the [Huddle landing page with alternating feature blocks challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -45,6 +45,7 @@ Users should be able to:
 - CSS custom properties
 - Mobile-first workflow
 - Flex
+- Grid layout
 
 ### What I learned
 
